@@ -1,0 +1,116 @@
+/*
+#root {
+  max-width: 960px; 
+  margin: 0 auto;
+  padding: 0 2rem 2rem; 
+  text-align: center;
+}
+
+main {
+  padding: 1rem 0; 
+  text-align: left; 
+  max-width: 600px; 
+  margin: 4rem auto 2rem auto; 
+  padding: 0 1rem; 
+  text-align: left; 
+  width: 100%; 
+  box-sizing: border-box; 
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  
+}
+
+.nav-links {
+  color: var(--text-color); 
+  text-decoration: none;
+  padding: 0.5rem 0; 
+  transition: color 0.1s steps(1, end);
+}
+
+.nav-links:hover {
+  color: var(--primary-hover-color); 
+}
+
+.nav-button {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: inherit; 
+}
+
+.username {
+  font-style: italic;
+  color: var(--secondary-text-color); 
+}
+
+.navbar-container {
+  
+  position: fixed;
+  top: 0; 
+  width: 100%; 
+  left: 0; 
+  transform: none; 
+  z-index: 1000;
+  background-image: none; 
+  background-color: var(--surface-color); 
+  margin: 0 0 2.5rem 0; 
+  padding: 0; 
+  border-bottom: 2px solid var(--border-color); 
+  box-shadow: none; 
+}
+
+.navbar-container ul {
+  list-style: none;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0.5rem 1rem; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-container .nav-links,
+.navbar-container .username,
+.navbar-container .nav-button {
+  color: var(--text-color);
+  text-shadow: 1px 1px 0px var(--background-color); 
+  text-decoration: none;
+  padding: 0.5rem 0.8rem;
+  border-radius: 0; 
+  transition: color 0.1s steps(1, end), text-shadow 0.1s steps(1, end), background-color 0.1s steps(1, end);
+  background: none;
+  border: none;
+  font-style: normal;
+  font-size: 1.1em; 
+}
+
+.navbar-container .username {
+  font-style: normal; 
+  color: var(--text-muted);
+}
+
+.navbar-container .nav-button {
+  background-color: transparent; 
+  border: 2px solid var(--primary-color); 
+  color: var(--primary-color);
+  cursor: pointer;
+  font-size: 1.1em;
+  font-family: inherit;
+  font-weight: bold;
+}
+
+.navbar-container .nav-links:hover {
+  color: var(--primary-hover-color);
+  background-color: var(--primary-color); 
+  text-shadow: 1px 1px 0px var(--background-color);
+}
+
+.navbar-container .nav-button:hover {
+  color: var(--background-color); 
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+  text-shadow: none;
+}
+
+*/
